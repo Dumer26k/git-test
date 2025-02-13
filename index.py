@@ -1,1 +1,1 @@
-print('Пупс3443')
+print('asdasdasdasdasda3443')
