@@ -1,4 +1,2 @@
-print('4')
-print('2')
-print('бра')
-print('туха')
+print('1+1')
+sdf=234234234
